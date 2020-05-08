@@ -309,3 +309,10 @@ var lima = {
   }
 };
 lima.render();
+
+var form = document.getElementById('form');
+var totalCookiesPerDayEachStore = []
+
+function handleFormSubmit(event){
+  event.preventDefault();
+}
