@@ -1,4 +1,27 @@
 body {
   font-family: 'Playfair Display', serif;
   background-color: grey;
+  color: black;
+}
+
+header {
+  text-align: center;
+  background-color: white;
+  border: solid;
+  border-color: salmon;
+}
+
+div {
+  width: 350px;
+  height: 200px;
+  text-align: center;
+  background-color: white;
+  border: solid;
+  border-color: salmon;
+  margin: 20px;
+  display: inline-block;
+}
+
+#second-line {
+  text-align: center;
 }
