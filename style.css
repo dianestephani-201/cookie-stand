@@ -10,11 +10,12 @@ header, #sales {
   background-color: white;
   border: solid;
   border-color: salmon;
+  margin: 20px;
 }
 
 div {
   width: 350px;
-  height: 200px;
+  height: 350px;
   text-align: center;
   background-color: white;
   border: solid;
@@ -35,5 +36,11 @@ div {
   border: solid;
   border-color: salmon;
   margin: 20px;
+}
+
+.location-image {
+  text-align: center;
+  width: 100px;
+  height: 100px;
 }
 
