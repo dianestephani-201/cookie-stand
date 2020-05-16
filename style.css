@@ -1,4 +1,61 @@
 body {
   font-family: 'Playfair Display', serif;
   background-color: grey;
+  color: black;
+  text-align: center;
 }
+
+header, #sales {
+  text-align: center;
+  background-color: white;
+  border: solid;
+  border-color: salmon;
+  margin: 20px;
+  padding-bottom: 20px;
+}
+
+div {
+  width: 350px;
+  height: 350px;
+  text-align: center;
+  background-color: white;
+  border: solid;
+  border-color: salmon;
+  margin: 20px;
+  display: inline-block;
+}
+
+#second-line {
+  text-align: center;
+}
+
+#form {
+  width: 500px;
+  height: 350px;
+  text-align: center;
+  background-color: white;
+  border: solid;
+  border-color: salmon;
+  margin: 20px;
+}
+
+.location-image {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+}
+
+#family-photo {
+  width: 600px;
+  height: 350px;
+}
+
+p {
+  text-align: center;
+  background-color: white;
+  border: solid;
+  border-color: salmon;
+  margin: 20px;
+  padding-bottom: 20px;
+}
+
