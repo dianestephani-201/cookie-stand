@@ -11,6 +11,7 @@ header, #sales {
   border: solid;
   border-color: salmon;
   margin: 20px;
+  padding-bottom: 20px;
 }
 
 div {
@@ -42,5 +43,19 @@ div {
   text-align: center;
   width: 100px;
   height: 100px;
+}
+
+#family-photo {
+  width: 600px;
+  height: 350px;
+}
+
+p {
+  text-align: center;
+  background-color: white;
+  border: solid;
+  border-color: salmon;
+  margin: 20px;
+  padding-bottom: 20px;
 }
 
